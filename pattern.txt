@@ -1,0 +1,1 @@
+/(eval\(|system\(|shell_exec\(|passthru\(|exec\(|base64_decode\(|chmod\(|mkdir\(|rmdir\(|basename\(|file_get_contents\(|move_uploaded_file\(|htmlspecialchars_decode\(|get_current_user\(|pathinfo\(|curl_multi_exec\(|base64\(|str_rot13\(|error_reporting\(|ini_set\(|unlink\(|PATHINFO_BASENAME\(|gzinflate\(|popen\(|default\(|\\x[0-9A-Fa-f]{2}\()/
